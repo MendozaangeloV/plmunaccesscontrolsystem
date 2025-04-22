@@ -18,3 +18,8 @@ Run the script http://localhost/tracking
 Admin
 user: admin
 pass: admin123
+
+staff
+
+user: staff
+pass: staff123
