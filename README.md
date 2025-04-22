@@ -16,10 +16,13 @@ Run the script http://localhost/tracking
 **LOGIN DETAILS** 
 
 Admin
+
 user: admin
+
 pass: admin123
 
 staff
 
 user: staff
+
 pass: staff123
